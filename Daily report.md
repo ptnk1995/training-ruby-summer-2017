@@ -259,14 +259,14 @@ end
 >Inside the loop i = 4
 >Inside the loop i = 5
 
-##Methods
+## Methods
 
 **Ruby methods** are used to bundle one or more repeatable statements into a single unit. Method names should begin with a lowercase letter. Syntax:
 
 def method_name [(variable, ...)] statement end
 Call methods: method_name
 
-####Splat Arguments
+#### Splat Arguments
 
 >the splat argument:	( *	)
 
@@ -277,12 +277,12 @@ end
 what_up("What up", "Justin", "Ben", "Kevin Sorbo")
 ```
 
-####Result
+#### Result
 >What	up,	Justin! 
 >What	up,	Ben!
 >What	up,	Kevin	Sorbo!
 
-#Git
+# Git
 
 **Git** is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
