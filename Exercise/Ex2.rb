@@ -11,5 +11,5 @@ def prime_number(n)
 	result
 end
 
-puts prime_number(3)
-puts prime_number(4)
+puts prime_number(7)
+puts prime_number(8)

@@ -10,4 +10,4 @@ def fibonacci (n)
 	fn
 end
 
-puts fibonacci(7)
+puts fibonacci(4)

@@ -17,5 +17,5 @@ def sum_sequence(last_number)
 
 end
 
-puts sum_sequence(6)
+puts sum_sequence(10)
 
